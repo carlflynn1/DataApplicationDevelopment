@@ -1,0 +1,165 @@
+﻿ID,PitchNumber,GroupName,ClubName,ClubType,Astro,GrassTurf,Allocated,Playable,ShapeSTArea
+1,135,Tymon Park,Faughs Gaa,GAA,No,Yes,Yes,Yes,8319.215958
+2,2,Doddsborough Open Space,Lucan United,Soccer,No,Yes,Yes,Yes,5997.401051
+3,3,Hillcrest Open Space Lucan,Lucan United,Soccer,No,Yes,Yes,Yes,5997.401316
+4,15,"Beech Park, Lucan",Beech Park F.C,Soccer,No,Yes,Yes,Yes,5997.40156
+5,16,Willsbrook Park Lucan,Lucan Sarsfield,GAA,No,Yes,Yes,Yes,6738.577204
+6,17,SC9,"Hermitage Park, Lucan",Soccer,No,Yes,Yes,Yes,5997.405645
+7,18,"Hermitage Park, Lucan",Esker Celtic,Soccer,No,Yes,Yes,Yes,5997.402512
+8,31,Collinstown Park,Oatfield F.C,Soccer,No,Yes,Yes,Yes,5997.435194
+9,32,Collinstown Park,Collinstown F.C,Soccer,No,Yes,Yes,Yes,5997.371852
+10,33,Collinstown Park,Collinstown F.C,Soccer,No,Yes,Yes,Yes,5997.451196
+11,24,Glenaulin Park Ballymount,Saint Patricks,GAA,No,Yes,Yes,Yes,10270.74934
+12,25,Glenaulin Park Ballymount,Saint Patricks,GAA,No,Yes,Yes,Yes,8319.302527
+13,26,Glenaulin Park Ballymount,Saint Patricks,GAA,No,Yes,Yes,Yes,10270.74575
+14,27,Glenaulin Park Ballymount,Saint Patricks,Cricket,No,Yes,Yes,Yes,10270.7565
+15,28,Glenaulin Park Ballymount,Ballyfermot DLS,GAA,No,Yes,Yes,Yes,10270.7434
+16,30,Glenaulin Park Ballymount,Glenfield F.C/Palmerstown United,Soccer,No,Yes,Yes,Yes,5997.425365
+17,29,Glenaulin Park Ballymount,Palmerstown United,Soccer,No,Yes,Yes,Yes,5997.425444
+18,4,Griffeen Valley Park,Arthur Griffith Park,Soccer,No,Yes,Yes,Yes,4384.257927
+19,5,Griffeen Valley Park,Esker Celtic F.C,Soccer,No,Yes,Yes,Yes,4384.261823
+20,6,Griffeen Valley Park,Ballyowen Celtic,Soccer,No,Yes,Yes,Yes,5412.664262
+21,8,Griffeen Valley Park,Esker Celtic,Soccer,No,Yes,Yes,Yes,5997.406664
+22,10,Griffeen Valley Park,Beech Park F.C,Soccer,No,Yes,Yes,Yes,5997.408235
+23,9,Griffeen Valley Park,Beech Park,Soccer,No,Yes,Yes,Yes,5997.402776
+24,12,Griffeen Valley Park,Lucan Sarsfield,GAA,No,Yes,Yes,Yes,7300.177703
+25,11,Griffeen Valley Park,Lucan Sarsfield,GAA,No,Yes,Yes,Yes,8833.214071
+26,13,Griffeen Valley Park,Lucan Sarsfield,GAA,No,Yes,Yes,Yes,11185.93945
+27,43,Castle Park,Castle Park F.C,Soccer,No,Yes,Yes,Yes,5997.437039
+28,47,Clondalkin Community Centre,Clondalkin Celtic/ Boot Road Celtic,Soccer,No,Yes,Yes,Yes,4857.9273
+29,48,Clondalkin Community Centre,,,No,Yes,No,Yes,3109.076665
+30,49,Clondalkin Community Centre,Roundtowers GAA 1,GAA,No,Yes,Yes,Yes,10066.24446
+31,50,Clondalkin Community Centre,Roundtowers GAA 1,GAA,No,Yes,Yes,Yes,10066.23988
+32,51,Corkagh Park,Ashwood Seniors F.C/Ashwood F.C,Soccer,No,Yes,Yes,No,3934.901073
+33,54,Corkagh Park,Newlands Celtic,Soccer,No,Yes,Yes,No,4131.6147
+34,56,Corkagh Park,Baseball Diamond,Baseball,No,Yes,Yes,Yes,3543.336342
+35,57,Corkagh Park,Baseball Diamond,Baseball,No,Yes,Yes,Yes,12879.13032
+36,61,Corkagh Park,Boot Road Celtic,Soccer,No,Yes,Yes,Yes,5997.405375
+37,157,Beechfield Park,Cherryfield Utd,Soccer,No,Yes,Yes,Yes,5997.412465
+38,156,Beechfield Park,Terenure FC,Soccer,No,Yes,Yes,Yes,4884.924178
+39,154,Greenhills Park,Greenhills Boys FC,Soccer,No,Yes,Yes,Yes,5997.404352
+40,125,Tymon Park,Kilnamanagh FC,Soccer,No,Yes,Yes,Yes,5997.405439
+41,126,Tymon Park,Cuckoos Nest FC,Soccer,No,Yes,Yes,Yes,5997.406792
+42,127,Tymon Park,Tallaght City FC,Soccer,No,Yes,Yes,Yes,5997.412615
+43,122,Kilnamanagh Open Space,Kilnamanagh FC,Soccer,No,Yes,Yes,Yes,5997.513246
+44,92,Kingswood Open Space,Kingswood F.C,Soccer,No,Yes,Yes,Yes,5978.854852
+45,128,Tymon Park,Not allocated,soccer,,Yes,No,Yes,5997.407664
+46,129,Tymon Park,AFC Justice,Soccer,No,Yes,Yes,Yes,5997.410667
+47,130,Tymon Park,Knocklyon Utd FC,Soccer,No,Yes,Yes,Yes,5997.412031
+48,137,Tymon Park,St. Marys FC,Soccer,No,Yes,Yes,Yes,5997.410146
+49,138,Tymon Park,Templeogue Utd,Soccer,No,Yes,Yes,Yes,5997.411499
+50,134,Tymon Park,Faughs Gaa,GAA,No,Yes,Yes,Yes,10270.63443
+51,136,Tymon Park,Faughs GAA,GAA,No,Yes,Yes,Yes,8319.215701
+52,139,Tymon Park,St. Judes GAA,GAA,No,Yes,Yes,Yes,6573.202918
+53,140,Tymon Park,Templeogue Utd,Soccer,No,Yes,Yes,Yes,5997.405247
+54,141,Tymon Park,Templeogue Utd,Soccer,No,Yes,Yes,Yes,5997.411001
+55,142,Tymon Park,St. Judes Gaa,GAA,No,Yes,Yes,Yes,10270.62464
+56,143,Tymon Park,St. Judes Gaa,GAA,No,Yes,Yes,Yes,8319.212106
+57,153,Tymon Park,not playable,soccer,No,Yes,No,No,5997.405913
+58,151,Tymon Park,Tallaght Rugby Club,Rugby,No,Yes,Yes,Yes,9931.711559
+59,152,Tymon Park,not playable,soccer,No,Yes,No,No,5997.405913
+60,120,Tymonville Open Space,Tymon Celtic FC,Soccer,No,Yes,Yes,Yes,5997.406528
+61,144,Tymon Park,St. Judes Gaa,GAA,No,Yes,Yes,Yes,8319.199729
+62,145,Tymon Park,St. Judes Gaa,GAA,No,Yes,Yes,Yes,5324.29387
+63,146,Tymon Park,Templeogue Utd,Soccer,No,Yes,Yes,Yes,3838.34085
+64,150,Tymon Park,Faugh's GAA,GAA,No,Yes,Yes,Yes,8319.210068
+65,149,Tymon Park,St. Judes GAA,GAA,No,Yes,Yes,Yes,10270.62074
+66,148,Tymon Park,Faughs GAA,GAA,No,Yes,Yes,Yes,10270.62748
+67,118,Bancroft Park,St. Maelruans FC,Soccer,No,Yes,Yes,Yes,5878.057752
+68,119,Bancroft Park,St. Maelruans FC,Soccer,No,Yes,Yes,Yes,3565.161392
+69,117,Kennedy's Field,Knocklyon Utd FC,Soccer,No,Yes,Yes,Yes,5997.404853
+70,114,Dodder Valley Park (Cherryfield End),Ballyboden St. Enda's,GAA,No,Yes,Yes,Yes,5324.291892
+71,113,Dodder Valley Park (Cherryfield End),Ballyboden St. Enda's,GAA,No,Yes,Yes,Yes,10270.63061
+72,116,Delaford Open Space,Knocklyon Utd FC,Soccer,No,Yes,Yes,Yes,4644.457903
+73,111,Whitechurch Open Space,Whitechurch Utd,Soccer,No,Yes,Yes,Yes,5997.374262
+74,108,Glenlyon/Ballycullen,Knocklyon Utd FC,Soccer,No,Yes,Yes,Yes,5997.403625
+75,109,Woodstown/Ballycullen Park,Ballyboden St. Enda's GFC,GAA,No,Yes,Yes,Yes,11195.11837
+76,110,Woodstown/Ballycullen Park,Ballyboden St. Enda's GFC,GAA,No,Yes,Yes,Yes,11195.11108
+77,107,Firhouse Community Centre Open Space,Firhouse Carmel FC,Soccer,No,Yes,Yes,Yes,4857.935738
+78,106,Firhouse Community Centre Open Space,Firhouse Carmel FC,Soccer,No,Yes,Yes,Yes,4857.938238
+81,100,Dodder Valley Park,not allocated,soccer,,Yes,No,Yes,5997.398478
+82,97,Dodder Valley Park (Old Bawn End),Shamrock Rovers FC,Soccer,No,Yes,Yes,Yes,5142.132581
+83,96,Dodder Valley Park (Old Bawn End),Thomas Davis GAA,GAA,No,Yes,Yes,Yes,9097.316695
+84,87,Aylesbury Open Space,Thomas Davis GFC,GAA,No,Yes,Yes,Yes,5187.914247
+85,88,Aylesbury Open Space,Thomas Davis GFC,GAA,No,Yes,Yes,Yes,8631.382236
+86,101,St. Annes Allenton,St. Annes's Gaa,GAA,No,Yes,Yes,Yes,9171.921382
+87,68,Jobstown Park,Jobstown Celtic,Soccer,No,Yes,Yes,Yes,4857.899127
+88,64,Rathcoole Park,Clondalkin Rugby Club,Rugby,No,Yes,Yes,Yes,4206.873027
+89,65,Rathcoole Park,Cummann Peile Naomh Mhuire,GAA,No,Yes,Yes,Yes,10270.61096
+90,133,Tymon Park,Dodder Dynamos Softball/Odd Ball Softball Club,Softball,No,Yes,Yes,Yes,3441.586169
+91,34,Collinstown Park,Clondalkin F.C,Soccer,No,Yes,Yes,Yes,5997.428909
+92,58,Corkagh Park,AZ Alpine,Soccer,No,Yes,Yes,Yes,7256.866985
+93,59,Corkagh Park,Roundtowers,GAA,No,Yes,Yes,Yes,11195.15997
+94,60,Corkagh Park,Cloncastle SC,Soccer,No,Yes,Yes,Yes,5997.410341
+95,63,Corkagh Park,,,No,Yes,No,Yes,5997.403073
+96,62,Corkagh Park,,,No,Yes,No,Yes,5997.411922
+97,1,Doddsborough Open Space,Lucan United,Soccer,No,Yes,Yes,Yes,5997.404287
+98,94,Ballymount Lands,St. Kevins GAA/St. Marks GAA,GAA,No,Yes,Yes,Yes,12153.04753
+99,162,Griffeen Valley Park,Arthur Griffith Park FC,Soccer,No,Yes,Yes,Yes,4384.25463
+100,163,Collinstown Park,Not Allocated,,,Yes,No,Yes,5997.375424
+101,81,Killinarden Park,An Croi Ro Naofa,GAA,No,Yes,Yes,Yes,5466.164559
+102,82,Killinarden Park,An Croi Ro Naofa,GAA,No,Yes,Yes,Yes,5466.163754
+103,19,SC9,"Hermitage Park, Lucan",Soccer,No,Yes,Yes,Yes,2456.537856
+104,20,SC9,"Hermitage Park, Lucan",Soccer,No,Yes,Yes,Yes,2456.535204
+105,14,Ballyowen Park,Liffey Valley Rangers,Soccer,No,Yes,Yes,Yes,3838.343232
+106,80,Butler Magee Park Fettercairn,St. Marks GFC,GAA,No,Yes,Yes,Yes,6716.803166
+107,78,Butler Magee Park Fettercairn,Saint Marks GAA,GAA,No,Yes,Yes,Yes,10495.09032
+108,102,St. Annes Allenton,St. Annes GAA,GAA,No,Yes,Yes,Yes,5870.034082
+109,124,Kilnamanagh Open Space,St. Kevins/Killians,GAA,No,Yes,Yes,Yes,10915.31743
+110,123,Kilnamanagh Open Space,St. Kevins/Killians,GAA,No,Yes,Yes,Yes,6985.796406
+111,121,Kilnamanagh Open Space,Kilnamanagh FC,Soccer,No,Yes,Yes,Yes,5992.576342
+112,155,Greenhills Park,Greenhills Boys FC,Soccer,No,Yes,Yes,Yes,4857.901389
+113,77,Butler Magee Park Fettercairn,Not Allocated,,,Yes,No,Yes,6716.854251
+114,103,St. Annes Allenton,Tallaght Rugby RFC,Rugby,No,Yes,Yes,Yes,9931.696461
+115,1131,Dodder Valley Park (Cherryfield End),Ballyboden St. Enda's GAA,GAA,No,Yes,Yes,Yes,6738.564692
+116,115,Dodder Valley Park (Cherryfield End),Ballyboden St. Enda's,GAA,No,Yes,Yes,Yes,5324.29339
+117,112,Elkwood Open Space,Terenure FC,Soccer,No,Yes,Yes,Yes,6195.823598
+118,160,Greentrees Park,Manor Town Utd,Soccer,No,Yes,Yes,Yes,4627.630539
+119,158,Greentrees Park,Manor Town Utd,Soccer,No,Yes,Yes,Yes,4627.630687
+120,159,Greentrees Park,Robert Emmets GAA,GAA,No,Yes,Yes,Yes,10066.35313
+121,23,Quarryvale Open Space,SCV,Soccer,No,Yes,Yes,Yes,5997.387272
+122,52,Corkagh Park,Alpine Express,Soccer,No,Yes,Yes,No,6315.09741
+123,83,Killinarden Park,Killinarden Athletic,Soccer,No,Yes,Yes,Yes,5997.409331
+125,93,Ballymount Lands,Kingwood FC,Soccer,No,Yes,Yes,Yes,5997.400576
+126,90,Aylesbury Open Space,Old Court FC,Soccer,No,Yes,Yes,Yes,5997.402108
+127,89,Aylesbury Open Space,Old Court,Soccer,No,Yes,Yes,Yes,5997.402616
+128,38,Ballyowen Park,Liffey Valley Rangers,Soccer,No,Yes,Yes,Yes,5997.405491
+129,39,Ballyowen Park,,,No,Yes,No,Yes,5997.401395
+130,40,Ballyowen Park,Liffey Valley Rangers,Soccer,No,Yes,Yes,Yes,5997.411108
+131,91,Brady's Field,Tymon Bawn FC,Soccer,No,Yes,Yes,Yes,5997.407708
+132,86,Sean Walsh Park,Shamrock Rovers FC,Soccer,No,Yes,Yes,Yes,5997.406312
+133,66,Rathcoole Park,St. Anthonys FC,Soccer,No,Yes,Yes,Yes,5997.403298
+134,74,Butler Magee Park Fettercairn,Marks Celtic FC,Soccer,No,Yes,Yes,Yes,5997.404279
+135,75,Butler Magee Park Fettercairn,Marks Celtic FC,Soccer,No,Yes,Yes,Yes,5997.404462
+136,36,Ballyowen Park,Collinstown F.C,Soccer,No,Yes,Yes,Yes,5997.411403
+137,72,Butler Magee Park Fettercairn,Old Court FC,Soccer,No,Yes,Yes,,5997.406178
+138,132,Tymon Park,Needs Drainage,soccer,No,Yes,No,Yes,5997.403932
+139,73,Butler Magee Park Fettercairn,Brookfield FC,Soccer,No,Yes,Yes,Yes,5997.403106
+140,85,Killinarden Park,Not Allocated,Soccer,,Yes,No,Yes,5997.406755
+141,147,Tymon Park,Templeogue Utd,Soccer,No,Yes,Yes,Yes,5997.406474
+142,76,Butler Magee Park Fettercairn,Not Allocated,soccer,No,Yes,No,Yes,5997.404201
+143,84,Killinarden Park,Not Allocated,soccer,,Yes,No,Yes,5997.404817
+144,7,Griffeen Valley Park,Ballyowen Celtic,Soccer,No,Yes,Yes,Yes,5412.666038
+145,53,Corkagh Park,Boot Road Celtic,Soccer,No,Yes,Yes,No,5412.662505
+146,98,Dodder Valley Park (Old Bawn End),Shamrock Rovers FC,Soccer,No,Yes,Yes,Yes,5142.190239
+147,46,Knockmitten Open Space,Knockmitten United,Soccer,No,Yes,Yes,Yes,4857.897201
+148,42,Ashwood,Ashwood FC,Soccer,No,Yes,Yes,Yes,4857.901577
+149,164,Greenhills Park,Greenhills Boys FC,Soccer,No,Yes,Yes,Yes,4857.9014
+150,71,Jobstown Park,Jobstown Celtic,Soccer,No,Yes,Yes,Yes,4857.902937
+151,69,Jobstown Park,Brookfield Celtic FC,Soccer,No,Yes,Yes,Yes,4857.89906
+152,67,Jobstown Park,Brookfield Celtic FC,Soccer,No,Yes,Yes,Yes,4857.899084
+153,991,Dodder Valley Park (Old Bawn End),Scoil Santain,GAA,No,Yes,Yes,Yes,4614.99915
+154,45,Knockmitten Open Space,Knockmitten United,Soccer,No,Yes,Yes,Yes,3187.270688
+155,44,Knockmitten Open Space,Knockmitten Unitied,Soccer,No,Yes,Yes,Yes,3109.053424
+156,,Tallaght Stadium,Shamrock Rovers FC,Soccer,,Yes,Yes,Yes,7304.55753
+157,95,Ballymount Lands,Kingwoods F.C / Kingswood Castle F.C,Soccer,No,Yes,Yes,Yes,5997.413939
+158,79,Fettercairn Park,Not Allocated,,No,Yes,Yes,No,10359.74585
+159,165,Sean Walsh Park,Shamrock Rovers FC,Soccer,No,Yes,Yes,Yes,4213.820584
+160,1191,Bancroft Park,St. Maelruans,Soccer,No,Yes,Yes,Yes,3091.16463
+161,1081,Glenlyon/Ballycullen,Knocklyon UTD FC,Soccer,No,Yes,Yes,Yes,5283.499422
+162,131,Tymon Park,Terenure College RFC,Rugby,No,Yes,Yes,Yes,4915.354482
+163,0,Carrigmore Park,Not Allocated,,,,,,4184.762773
+567,55,Corkagh Park,Clondalkin Rugby Club,Rugby,No,Yes,Yes,Yes,4801.019049
+568,104,Ballycragh Park,Firhouse Carmel,Soccer,No,Yes,Yes,Yes,3931.968737
+569,105,Ballycragh Park,Firhouse Carmel,Soccer,No,Yes,Yes,Yes,3406.280325
+570,99,Dodder Valley (Old Bawn),Not Allocated,,No,Yes,No,Yes,4349.572473
